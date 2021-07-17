@@ -34,3 +34,14 @@ git add .
 git commit -m "blabla"
 git push -u origin main
 ```
+
+```
+npm install -D ts-node
+npm install -D tslib @types/node
+```
+
+```
+git add .
+git commit -m "blabla"
+git push -u origin main
+```
