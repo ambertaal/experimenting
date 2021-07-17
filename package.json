@@ -1,0 +1,12 @@
+{
+    "description": "Amber's experimenting directory",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ambertaal/experimenting.git"
+    },
+    "license": "(MIT OR Apache-2.0)",
+    "author": {
+        "name": "Amber Taal",
+        "email": "amber.taal@gmail.com"
+    }
+}
