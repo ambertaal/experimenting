@@ -7,7 +7,7 @@ touch package.json
 
 Added description, repository and license fields.
 
-``` 
+```
 npm install
 ```
 
@@ -45,3 +45,12 @@ git add .
 git commit -m "blabla"
 git push -u origin main
 ```
+
+Usage
+------
+
+```
+npx ts-node helloworld.ts
+```
+
+Execute `helloworld.ts` using `node` + `tsc`.
