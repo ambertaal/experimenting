@@ -8,5 +8,8 @@
     "author": {
         "name": "Amber Taal",
         "email": "amber.taal@gmail.com"
+    },
+    "devDependencies": {
+        "typescript": "^4.3.5"
     }
 }
